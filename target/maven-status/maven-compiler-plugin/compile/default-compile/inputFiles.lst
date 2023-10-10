@@ -1,0 +1,11 @@
+/home/erick/Documentos/awards/src/main/java/com/raspberry/awards/jpa/repository/NominatedRepository.java
+/home/erick/Documentos/awards/src/main/java/com/raspberry/awards/dto/WinnerIntervalDTO.java
+/home/erick/Documentos/awards/src/main/java/com/raspberry/awards/service/WinnersIntervalService.java
+/home/erick/Documentos/awards/src/main/java/com/raspberry/awards/exception/ResponseExceptionHandler.java
+/home/erick/Documentos/awards/src/main/java/com/raspberry/awards/jpa/model/Producer.java
+/home/erick/Documentos/awards/src/main/java/com/raspberry/awards/AwardsApplication.java
+/home/erick/Documentos/awards/src/main/java/com/raspberry/awards/jpa/repository/ProducerRepository.java
+/home/erick/Documentos/awards/src/main/java/com/raspberry/awards/config/CSVLoader.java
+/home/erick/Documentos/awards/src/main/java/com/raspberry/awards/jpa/model/Nominated.java
+/home/erick/Documentos/awards/src/main/java/com/raspberry/awards/dto/WinnersIntervalDTO.java
+/home/erick/Documentos/awards/src/main/java/com/raspberry/awards/controller/WinnersController.java
